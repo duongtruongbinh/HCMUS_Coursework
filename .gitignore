@@ -31,7 +31,10 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
-
+*.vcxproj.*
+*.vcxproj
+*.sln
+*.zip
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
@@ -343,20 +346,7 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 
-# OpenCover UI analysis results
-OpenCover/
 
-# Azure Stream Analytics local run output
-ASALocalRun/
-
-# MSBuild Binary and Structured Log
-*.binlog
-
-# NVidia Nsight GPU debugger configuration file
-*.nvuser
-
-# MFractors (Xamarin productivity tool) working folder
-.mfractor/
 
 # Local History for Visual Studio
 .localhistory/
@@ -377,7 +367,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
-.vscode/*
+.vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json

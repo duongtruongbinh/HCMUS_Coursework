@@ -1,0 +1,30 @@
+21141096  Hoang Anh Khanh     0883 464 195        07/08/1997      hakhanhhcmut.com         613/850 Pham Ngu Lao Phuong 6 Quan 5 Thanh pho Ho Chi Minh                        2.3
+18121658  Pham Vinh Nguyen    0842 463 392        11/02/1969      pvnguyenhcmus.com        625/956 Ly Thai To Phuong 6 Quan Binh Tan Thanh pho Ho Chi Minh                   7.5
+20145314  Le Gia Bao          0980 434 431        15/03/1980      lgbaohcmue.com           424 Nguyen Thi Minh Khai Phuong 10 Huyen Can Gio Thanh pho Ho Chi Minh            6.8
+20147080  Nguyen Thanh Binh   0832 173 858        19/11/1919      ntbinhapple.com          522 Nguyen Thi Minh Khai Phuong 4 Quan 8 Thanh pho Ho Chi Minh                    9.7
+20123480  Huynh Nhat Dung     0802 823 700        18/03/2019      hndunghcmut.com          652 Ton Duc Thang Phuong 19 Huyen Hoc Mon Thanh pho Ho Chi Minh                   1.2
+20134733  Ngo Phuong Dung     0857 618 188        17/08/2022      npdungmicrosoft.com      801/294 Mac Dinh Chi Phuong 8 Quan 3 Thanh pho Ho Chi Minh                        2.0
+22135795  Pham Anh Trong      0815 416 432        15/04/1913      patrongapple.com         153 Pham Ngu Lao Phuong 1 Quan Tan Binh Thanh pho Ho Chi Minh                     9.0
+20145302  Vu Thu Cuong        0814 844 243        13/07/2015      vtcuongapple.com         994/983 Nguyen Thi Minh Khai Phuong 12 Huyen Hoc Mon Thanh pho Ho Chi Minh        9.5
+20154428  Bui Kim Du          0898 874 383        29/02/1952      bkduapple.com            692/730 Ham Nghi Phuong 4 Quan Phu Nhuan Thanh pho Ho Chi Minh                    5.7
+19156165  Huynh Thu Tram      0817 438 720        13/11/1962      httrammicrosoft.com      574/804 Nguyen Du Phuong 14 Quan 10 Thanh pho Ho Chi Minh                         7.4
+22138173  Tran Kim Hung       0952 594 048        09/12/2011      tkhunghcmut.com          47/896 Dien Bien Phu Phuong 7 Quan 4 Thanh pho Ho Chi Minh                        0.0
+18157170  Bui Hoang Dung      0818 499 121        03/10/1911      bhdungyahoo.com          686 Pham Ngoc Thach Phuong 17 Quan 7 Thanh pho Ho Chi Minh                        0.9
+19122433  Hoang Ngoc Du       0940 539 367        28/07/2022      hnduhcmue.com            591 Hai Ba Trung Phuong 17 Quan 4 Thanh pho Ho Chi Minh                           8.0
+22144590  Ly Kim Nguyen       0894 441 693        14/02/1909      lknguyenyahoo.com        230 Pham Ngu Lao Phuong 16 Quan Binh Tan Thanh pho Ho Chi Minh                    5.0
+22135960  Bui Phuong Binh     0870 605 548        18/09/1921      bpbinhhcmus.com          462/237 Pham Ngu Lao Phuong 7 Quan 11 Thanh pho Ho Chi Minh                       1.6
+21149148  Phan Gia Thinh      0998 922 921        21/01/1920      pgthinhamazon.com        348/608 Pham Van Dong Phuong 9 Quan Tan Phu Thanh pho Ho Chi Minh                 2.1
+20146135  Le Hoang Hung       0821 693 146        27/06/2012      lhhunghcmus.com          557 Nguyen Thi Minh Khai Phuong 0 Quan Binh Tan Thanh pho Ho Chi Minh             8.1
+22137328  Do Bao Thinh        0927 894 357        16/05/1949      dbthinhoutlook.com       650/334 Nguyen Thi Minh Khai Phuong 15 Quan Binh Tan Thanh pho Ho Chi Minh        4.4
+18138431  Dang Kim Nguyen     0992 975 642        07/06/1965      dknguyenyahoo.com        405/842 Ham Nghi Phuong 13 Quan Go Vap Thanh pho Ho Chi Minh                      7.5
+21151551  Nguyen Anh Khiem    0808 806 613        06/07/2009      nakhiemhcmus.com         383 Pham Ngu Lao Phuong 6 Quan Phu Nhuan Thanh pho Ho Chi Minh                    9.0
+20136238  Hoang Gia Thinh     0924 255 874        14/09/2016      hgthinhhcmue.com         742 Nguyen Du Phuong 1 Quan 3 Thanh pho Ho Chi Minh                               1.7
+19123430  Pham Nhat Du        0962 574 970        22/07/1975      pnduoutlook.com          470/560 Pham Van Dong Phuong 4 Huyen Nha Be Thanh pho Ho Chi Minh                 2.3
+18123172  Ly Kim Minh         0848 971 860        04/12/1999      lkminhhcmue.com          25 Ham Nghi Phuong 9 Quan Binh Tan Thanh pho Ho Chi Minh                          6.9
+22121847  Bui Thu Dung        0955 205 444        28/11/2008      btdungmicrosoft.com      194 Phan Boi Chau Phuong 0 Quan 6 Thanh pho Ho Chi Minh                           3.8
+20137486  Le Phuong Khang     0848 157 085        27/04/1973      lpkhanghcmus.com         515 Pham Van Dong Phuong 7 Huyen Binh Chanh Thanh pho Ho Chi Minh                 5.9
+20131344  Hoang Vinh Trong    0904 979 759        05/11/1982      hvtrongapple.com         822 Dien Bien Phu Phuong 13 Quan 8 Thanh pho Ho Chi Minh                          7.5
+19152312  Dinh My Nguyen      0843 769 987        29/08/1920      dmnguyenhcmus.com        155/817 Pham Van Dong Phuong 14 Quan Phu Nhuan Thanh pho Ho Chi Minh              3.4
+19134477  Nguyen Khanh Hoang  0882 446 284        25/01/1910      nkhoangoutlook.com       675 Pham Van Dong Phuong 16 Quan 12 Thanh pho Ho Chi Minh                         6.4
+20149660  Ho Anh Trong        0834 518 183        09/05/1914      hatronghcmus.com         474 Pham Ngoc Thach Phuong 11 Quan 7 Thanh pho Ho Chi Minh                        9.1
+20121738  Duong Nhat Thinh    0851 652 259        03/05/1904      dnthinhamazon.com        657 Tran Hung Dao Phuong 17 Quan 5 Thanh pho Ho Chi Minh                          2.3

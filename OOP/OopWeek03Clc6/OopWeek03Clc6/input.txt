@@ -1,0 +1,11 @@
+10
+3
+4
+5
+6external character
+7
+8
+9something wrong
+10
+3
+13

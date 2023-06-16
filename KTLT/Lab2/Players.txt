@@ -1,0 +1,81 @@
+DF/Trent Alexander-Arnold/1998/England/Liverpool
+DF/Harry Maguire/1993/England/Manchester United
+DF/Ben Chilwell/1996/England/Chelsea
+DF/Reece James/1999/England/Chelsea
+DF/Kyle Walker/1990/England/Manchester City
+DF/John Stones/1994/England/Manchester City
+FW/Phil Foden/2000/England/Manchester City
+GK/Dean Henderson/1997/England/Manchester United
+DF/Luke Shaw/1995/England/Manchester United
+MF/Jordan Henderson/1990/England/Liverpool
+MF/Mason Mount/1999/England/Chelsea
+MF/Jesse Lingard/1992/England/Manchester United
+FW/Raheem Sterling/1994/England/Manchester City
+FW/Jack Grealish/1995/England/Manchester City
+FW/Marcus Rashford/1997/England/Manchester United
+FW/Jadon Sancho/2000/England/Manchester United
+DF/Benjamin Pavard/1996/France/Bayern Munich
+DF/Dayot Upamecano/1998/France/Bayern Munich
+DF/Lucas Hernandez/1996/France/Bayern Munich
+MF/N'Golo Kanté/1991/France/Chelsea
+MF/Adrien Rabiot/1995/France/Juventus
+FW/Antoine Griezmann/1991/France/Atlético Madrid
+FW/Kylian Mbappé/1998/France/Paris Saint-Germain
+FW/Kingsley Coman/1996/France/Bayern Munich
+FW/Karim Benzema/1987/France/Real Madrid
+DF/Presnel Kimpembe/1995/France/Paris Saint-Germain
+DF/Raphael Varane/1993/France/Manchester United
+MF/Paul Pogba/1993/France/Manchester United
+MF/Thomas Lemar/1995/France/Atlético Madrid
+MF/Corentin Tolisso/1994/France/Bayern Munich
+DF/Diogo Dalot/1999/Portugal/Manchester United
+DF/Rúben Dias/1997/Portugal/Manchester City
+DF/Nuno Mendes/2002/Portugal/Paris Saint-Germain
+DF/Danilo Pereira/1991/Portugal/Paris Saint-Germain
+DF/João Cancelo/1994/Portugal/Manchester City
+MF/Bruno Fernandes/1994/Portugal/Manchester United
+FW/Cristiano Ronaldo/1985/Portugal/Manchester United
+FW/Bernardo Silva/1994/Portugal/Manchester City
+FW/Diogo Jota/1996/Portugal/Liverpool
+FW/João Félix/1999/Portugal/Atlético Madrid
+GK/Alisson/1992/Brazil/Liverpool
+GK/Ederson/1993/Brazil/Manchester City
+DF/Thiago Silva/1984/Brazil/Chelsea
+DF/Marquinhos/1994/Brazil/Paris Saint-Germain
+DF/Alex Telles/1992/Brazil/Manchester United
+DF/Gabriel/1997/Brazil/Arsenal
+DF/Alex Sandro/1991/Brazil/Juventus
+MF/Fabinho/1993/Brazil/Liverpool
+MF/Casemiro/1992/Brazil/Real Madrid
+MF/Fred/1993/Brazil/Manchester United
+FW/Matheus Cunha/1999/Brazil/Atlético Madrid
+FW/Gabriel Jesus/1997/Brazil/Manchester City
+FW/Rodrygo/2001/Brazil/Real Madrid
+FW/Vinícius Júnior/2000/Brazil/Real Madrid
+FW/Éder Militão/1998/Brazil/Real Madrid
+FW/Danilo/1991/Brazil/Juventus
+DF/Renan Lodi/1998/Brazil/Atlético Madrid
+FW/Felipe/1989/Brazil/Atlético Madrid
+FW/Neymar/1992/Brazil/Paris Saint-Germain
+FW/Roberto Firmino/1991/Brazil/Liverpool
+GK/David de Gea/1990/Spain/Manchester United
+DF/César Azpilicueta/1989/Spain/Chelsea
+DF/Pau Torres/1997/Spain/Villarreal
+DF/Aymeric Laporte/1994/Spain/Manchester City
+DF/Dani Carvajal/1992/Spain/Real Madrid
+MF/Koke/1992/Spain/Atlético Madrid
+MF/Rodri/1996/Spain/Manchester City
+FW/Álvaro Morata/1992/Spain/Juventus
+GK/Kepa Arrizabalaga/1994/Spain/Chelsea
+DF/Marcos Alonso/1990/Spain/Chelsea
+DF/Raúl Albiol/1985/Spain/Villarreal
+DF/Sergio Ramos/1986/Spain/Paris Saint-Germain
+MF/Marcos Llorente/1995/Spain/Atlético Madrid
+MF/Thiago/1991/Spain/Liverpool
+MF/Ángel Di María/1988/Argentina/Paris Saint-Germain
+MF/Giovani Lo Celso/1996/Argentina/Villarreal
+FW/Ángel Correa/1995/Argentina/Atlético Madrid
+FW/Paulo Dybala/1993/Argentina/Juventus
+DF/Juan Foyth/1998/Argentina/Villarreal
+MF/Rodrigo De Paul/1994/Argentina/Atlético Madrid
+FW/Lionel Messi/1987/Argentina/Paris Saint-Germain
