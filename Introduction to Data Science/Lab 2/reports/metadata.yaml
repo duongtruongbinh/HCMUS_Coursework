@@ -1,0 +1,31 @@
+---
+title: "Lab 02 - Nhập môn Khoa học Dữ liệu/ CSC14119"
+author:
+    - Nguyễn Văn A - 21120001
+    - Lê Văn B - 21120001
+date: "15/10/2023"
+subtitle: "Tiền xử lý, khám phá dữ liệu, và phân tích đơn giản"
+lang: vn
+toc: true
+toc-title: Mục lục
+toc-own-page: true
+toc-depth: 3
+table-use-row-colors: false
+header-left: "\\thetitle"
+header-center: "\\hspace{0.5cm}"
+header-right: "Page \\thepage"
+footer-left: "\\hspace{0.5cm}"
+footer-center: "\\hspace{0.5cm}"
+footer-right: "\\hspace{0.5cm}"
+titlepage: true
+titlepage-background: "./backgrounds/background10.pdf"
+header-includes: |
+    \usepackage{float}
+    \let\origfigure\figure
+    \let\endorigfigure\endfigure
+    \renewenvironment{figure}[1][2] {
+        \expandafter\origfigure\expandafter[H]
+    } {
+        \endorigfigure
+    }
+---

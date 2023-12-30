@@ -1,0 +1,24 @@
+# Last update: 15/10/2023
+
+# Usage: pip install -r requirements.txt
+# @Student: please install these packages for constructing stable development environment.
+jupyterlab==3.6.3
+jupyter_contrib_nbextensions==0.5.1
+requests==2.31.0
+requests-cache==1.1.0
+urllib3==1.26.6
+beautifulsoup4==4.12.2
+selenium==3.141.0
+chromedriver-binary==114.0.5735.90.0
+matplotlib==3.8.0
+numpy==1.26.0
+pandas==2.1.1
+openpyxl==3.1.2 # Help pandas read excel files
+scikit-learn==1.3.1
+nbdime==3.2.1
+seaborn==0.12.2
+
+# @Teacher: uncomment the lines below.
+# - nbgrader==0.7.1
+# - sqlalchemy==2.0.22 # To play well with nbgrader=0.7.1
+# - nbconvert==7.9.2 # To play well with nbgrader=0.7.1

@@ -1,0 +1,25 @@
+Query API, Meaning
+SP.POP.TOTL,Total Population
+SP.POP.TOTL.FE.IN,Female Population
+SP.POP.TOTL.MA.IN,Male Population
+SP.DYN.CBRT.IN,Birth Rate
+SP.DYN.CDRT.IN,Death Rate
+SE.COM.DURS,Compulsory Education Dur
+SL.IND.EMPL.ZS,Employment in Industry(%)
+SL.AGR.EMPL.ZS,Employment in Agriculture(%)
+SL.AGR.EMPL.FE.ZS,Female Employment in Agriculture(%)
+SL.IND.EMPL.FE.ZS,Female Employment in Industry(%)
+SL.UEM.TOTL.ZS,Unemployment(%)
+NY.GDP.MKTP.CD,GDP in USD
+NY.ADJ.NNTY.PC.KD.ZG,National Income per Capita
+NY.GSR.NFCY.CD,Net income from Abroad
+NV.AGR.TOTL.CD,Agriculture value added(in USD)
+EG.USE.ELEC.KH.PC,Electric Power Consumption(kWH per capita)
+EG.FEC.RNEW.ZS,Renewable Energy Consumption (%)
+EG.USE.COMM.FO.ZS,Fossil Fuel Consumption (%)
+SP.DYN.LE00.MA.IN,Male life expectancy
+SP.DYN.LE00.FE.IN,Female life expectancy
+SE.PRM.ENRR,School enrollment in primary
+SE.TER.ENRR,School enrollment in tertiary
+E.PRM.CMPT.ZS,Primary completion rate
+SE.ADT.1524.LT.ZS,Literacy rate

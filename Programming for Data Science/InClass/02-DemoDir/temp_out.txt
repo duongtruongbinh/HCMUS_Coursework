@@ -1,0 +1,13 @@
+dir1
+file1.txt
+file2.txt
+long_file
+temp.txt
+temp_out.txt
+total 1048
+drwxr-xr-x 4 binh binh    4096 Oct 10 15:13 dir1
+-rw-r--r-- 1 binh binh      32 Sep 24  2021 file1.txt
+-rw-r--r-- 1 binh binh      32 Sep 24  2021 file2.txt
+-rw-r--r-- 1 binh binh 1053440 Sep 24  2021 long_file
+-rw-r--r-- 1 binh binh       0 Oct 10 16:00 temp.txt
+-rw-r--r-- 1 binh binh      57 Oct 10 16:03 temp_out.txt

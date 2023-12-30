@@ -1,0 +1,201 @@
+alpha-2-code,alpha-3-code,numeric,name,capital,continent,region
+AF,AFG,4,Afghanistan,Kabul,Asia,South Asia
+AL,ALB,8,Albania,Tirana,Europe,South East Europe
+DZ,DZA,12,Algeria,Algiers,Africa,Northern Africa
+AS,ASM,16,American Samoa,Pago Pago,Oceania,Pacific
+AO,AGO,24,Angola,Luanda,Africa,Southern Africa
+AG,ATG,28,Antigua and Barbuda,Saint John's,Americas,West Indies
+AR,ARG,32,Argentina,Buenos Aires,Americas,South America
+AM,ARM,51,Armenia,Yerevan,Asia,South West Asia
+AW,ABW,533,Aruba,Oranjestad,Americas,West Indies
+AU,AUS,36,Australia,Canberra,Oceania,Pacific
+AT,AUT,40,Austria,Vienna,Europe,Central Europe
+AZ,AZE,31,Azerbaijan,Baku (Baki),Asia,South West Asia
+BS,BHS,44,"Bahamas, The",Nassau,Americas,West Indies
+BH,BHR,48,Bahrain,Manama,Asia,South West Asia
+BD,BGD,50,Bangladesh,Dhaka,Asia,South Asia
+BB,BRB,52,Barbados,Bridgetown,Americas,West Indies
+BY,BLR,112,Belarus,Minsk,Europe,Eastern Europe
+BE,BEL,56,Belgium,Brussels,Europe,Western Europe
+BZ,BLZ,84,Belize,Belmopan,Americas,Central America
+BJ,BEN,204,Benin,Porto-Novo ³,Africa,Western Africa
+BM,BMU,60,Bermuda,Hamilton,Americas,West Indies
+BT,BTN,64,Bhutan,Thimphu,Asia,South Asia
+BO,BOL,68,Bolivia,La Paz / Sucre,Americas,South America
+BA,BIH,70,Bosnia and Herzegovina,Sarajevo,Europe,South East Europe
+BW,BWA,72,Botswana,Gaborone,Africa,Southern Africa
+BR,BRA,76,Brazil,Brasilia,Americas,South America
+VG,VGB,92,British Virgin Islands,Road Town,Americas,West Indies
+BN,BRN,96,Brunei Darussalam,Bandar Seri Begawan,Asia,South East Asia
+BG,BGR,100,Bulgaria,Sofia,Europe,South East Europe
+BF,BFA,854,Burkina Faso,Ouagadougou,Africa,Western Africa
+BI,BDI,108,Burundi,Bujumbura,Africa,Central Africa
+CV,CPV,132,Cabo Verde,Praia,Africa,Western Africa
+KH,KHM,116,Cambodia,Phnom Penh,Asia,South East Asia
+CM,CMR,120,Cameroon,Yaounde,Africa,Western Africa
+CA,CAN,124,Canada,Ottawa,Americas,North America
+KY,CYM,136,Cayman Islands,George Town,Americas,West Indies
+CF,CAF,140,Central African Republic,Bangui,Africa,Central Africa
+TD,TCD,148,Chad,N'Djamena,Africa,Central Africa
+CL,CHL,152,Chile,Santiago,Americas,South America
+CN,CHN,156,China,Beijing,Asia,East Asia
+CO,COL,170,Colombia,Bogota,Americas,South America
+KM,COM,174,Comoros,Moroni,Africa,Indian Ocean
+CG,COG,178,"Congo, Rep.",Brazzaville,Africa,Central Africa
+CR,CRI,188,Costa Rica,San Jose,Americas,Central America
+CI,CIV,384,Cote d'Ivoire,Yamoussoukro,Africa,Western Africa
+HR,HRV,191,Croatia,Zagreb,Europe,South East Europe
+CU,CUB,192,Cuba,Havana,Americas,West Indies
+CY,CYP,196,Cyprus,Nicosia,Asia,South West Asia
+CZ,CZE,203,Czech Republic,Prague,Europe,Central Europe
+DK,DNK,208,Denmark,Copenhagen,Europe,Northern Europe
+DJ,DJI,262,Djibouti,Djibouti,Africa,Eastern Africa
+DM,DMA,212,Dominica,Roseau,Americas,West Indies
+DO,DOM,214,Dominican Republic,Santo Domingo,Americas,West Indies
+EC,ECU,218,Ecuador,Quito,Americas,South America
+EG,EGY,818,"Egypt, Arab Rep.",Cairo,Africa,Northern Africa
+SV,SLV,222,El Salvador,San Salvador,Americas,Central America
+GQ,GNQ,226,Equatorial Guinea,Malabo,Africa,Western Africa
+ER,ERI,232,Eritrea,Asmara,Africa,Eastern Africa
+EE,EST,233,Estonia,Tallinn,Europe,Eastern Europe
+ET,ETH,231,Ethiopia,Addis Ababa,Africa,Eastern Africa
+FO,FRO,234,Faroe Islands,Torshavn,Europe,Northern Europe
+FJ,FJI,242,Fiji,Suva,Oceania,Pacific
+FI,FIN,246,Finland,Helsinki,Europe,Northern Europe
+FR,FRA,250,France,Paris,Europe,Western Europe
+PF,PYF,258,French Polynesia,Papeete,Oceania,Pacific
+GA,GAB,266,Gabon,Libreville,Africa,Western Africa
+GM,GMB,270,"Gambia, The",Banjul,Africa,Western Africa
+GE,GEO,268,Georgia,T'bilisi,Asia,South West Asia
+DE,DEU,276,Germany,Berlin,Europe,Western Europe
+GH,GHA,288,Ghana,Accra,Africa,Western Africa
+GI,GIB,292,Gibraltar,Gibraltar,Europe,South West Europe
+GR,GRC,300,Greece,Athens,Europe,South East Europe
+GL,GRL,304,Greenland,Nuuk (Godthab),Americas,North America
+GD,GRD,308,Grenada,Saint George's,Americas,West Indies
+GU,GUM,316,Guam,Hagatna (Agana),Oceania,Pacific
+GT,GTM,320,Guatemala,Guatemala,Americas,Central America
+GN,GIN,324,Guinea,Conakry,Africa,Western Africa
+GW,GNB,624,Guinea-Bissau,Bissau,Africa,Western Africa
+GY,GUY,328,Guyana,Georgetown,Americas,South America
+HT,HTI,332,Haiti,Port-au-Prince,Americas,West Indies
+HN,HND,340,Honduras,Tegucigalpa,Americas,Central America
+HU,HUN,348,Hungary,Budapest,Europe,Central Europe
+IS,ISL,352,Iceland,Reykjavik,Europe,Northern Europe
+IN,IND,356,India,New Delhi,Asia,South Asia
+ID,IDN,360,Indonesia,Jakarta,Asia,South East Asia
+IR,IRN,364,"Iran, Islamic Rep.",Tehran,Asia,South West Asia
+IQ,IRQ,368,Iraq,Baghdad,Asia,South West Asia
+IE,IRL,372,Ireland,Dublin,Europe,Western Europe
+IL,ISR,376,Israel,Jerusalem,Asia,South West Asia
+IT,ITA,380,Italy,Rome,Europe,Southern Europe
+JM,JAM,388,Jamaica,Kingston,Americas,West Indies
+JP,JPN,392,Japan,Tokyo,Asia,East Asia
+JO,JOR,400,Jordan,Amman,Asia,South West Asia
+KZ,KAZ,398,Kazakhstan,Astana (Akmola),Asia,Central Asia
+KE,KEN,404,Kenya,Nairobi,Africa,Eastern Africa
+KI,KIR,296,Kiribati,Tarawa,Oceania,Pacific
+KP,PRK,408,"Korea, Dem. People’s Rep.",P'yongyang,Asia,East Asia
+KR,KOR,410,"Korea, Rep.",Seoul,Asia,East Asia
+KW,KWT,414,Kuwait,Kuwait,Asia,South West Asia
+KG,KGZ,417,Kyrgyz Republic,Bishkek,Asia,Central Asia
+LA,LAO,418,Lao PDR,Vientiane,Asia,South East Asia
+LV,LVA,428,Latvia,Riga,Europe,Eastern Europe
+LB,LBN,422,Lebanon,Beirut,Asia,South West Asia
+LS,LSO,426,Lesotho,Maseru,Africa,Southern Africa
+LR,LBR,430,Liberia,Monrovia,Africa,Western Africa
+LY,LBY,434,Libya,Tripoli,Africa,Northern Africa
+LI,LIE,438,Liechtenstein,Vaduz,Europe,Central Europe
+LT,LTU,440,Lithuania,Vilnius,Europe,Eastern Europe
+LU,LUX,442,Luxembourg,Luxembourg,Europe,Western Europe
+MK,MKD,807,"Macedonia, FYR",Skopje,Europe,South East Europe
+MG,MDG,450,Madagascar,Antananarivo,Africa,Indian Ocean
+MW,MWI,454,Malawi,Lilongwe,Africa,Southern Africa
+MY,MYS,458,Malaysia,Kuala Lumpur,Asia,South East Asia
+MV,MDV,462,Maldives,Male (Maale),Asia,South Asia
+ML,MLI,466,Mali,Bamako,Africa,Western Africa
+MT,MLT,470,Malta,Valletta,Europe,Southern Europe
+MH,MHL,584,Marshall Islands,Majuro,Oceania,Pacific
+MR,MRT,478,Mauritania,Nouakchott,Africa,Western Africa
+MU,MUS,480,Mauritius,Port Louis,Africa,Indian Ocean
+MX,MEX,484,Mexico,Mexico,Americas,Central America
+FM,FSM,583,"Micronesia, Fed. Sts.",Palikir,Oceania,Pacific
+MD,MDA,498,Moldova,Chisinau,Europe,Eastern Europe
+MC,MCO,492,Monaco,Monaco,Europe,Western Europe
+MN,MNG,496,Mongolia,Ulaanbaatar,Asia,Northern Asia
+MA,MAR,504,Morocco,Rabat,Africa,Northern Africa
+MZ,MOZ,508,Mozambique,Maputo,Africa,Southern Africa
+MM,MMR,104,Myanmar,Rangoon (Yangon),Asia,South East Asia
+NR,NRU,520,Nauru,no official capital,Oceania,Pacific
+NP,NPL,524,Nepal,Kathmandu,Asia,South Asia
+NL,NLD,528,Netherlands,Amsterdam,Europe,Western Europe
+NC,NCL,540,New Caledonia,Noumea,Oceania,Pacific
+NZ,NZL,554,New Zealand,Wellington,Oceania,Pacific
+NI,NIC,558,Nicaragua,Managua,Americas,Central America
+NE,NER,562,Niger,Niamey,Africa,Western Africa
+NG,NGA,566,Nigeria,Abuja,Africa,Western Africa
+MP,MNP,580,Northern Mariana Islands,Saipan,Oceania,Pacific
+NO,NOR,578,Norway,Oslo,Europe,Northern Europe
+OM,OMN,512,Oman,Muscat,Asia,South West Asia
+PK,PAK,586,Pakistan,Islamabad,Asia,South Asia
+PW,PLW,585,Palau,Koror,Oceania,Pacific
+PA,PAN,591,Panama,Panama,Americas,Central America
+PG,PNG,598,Papua New Guinea,Port Moresby,Oceania,Pacific
+PY,PRY,600,Paraguay,Asuncion,Americas,South America
+PE,PER,604,Peru,Lima,Americas,South America
+PH,PHL,608,Philippines,Manila,Asia,South East Asia
+PL,POL,616,Poland,Warsaw,Europe,Eastern Europe
+PT,PRT,620,Portugal,Lisbon,Europe,South West Europe
+PR,PRI,630,Puerto Rico,San Juan,Americas,West Indies
+QA,QAT,634,Qatar,Doha,Asia,South West Asia
+RU,RUS,643,Russian Federation,Moscow,Asia,Northern Asia
+RW,RWA,646,Rwanda,Kigali,Africa,Central Africa
+WS,WSM,882,Samoa,Apia,Oceania,Pacific
+SM,SMR,674,San Marino,San Marino,Europe,Southern Europe
+ST,STP,678,Sao Tome and Principe,Sao Tome,Africa,Western Africa
+SA,SAU,682,Saudi Arabia,Riyadh,Asia,South West Asia
+SN,SEN,686,Senegal,Dakar,Africa,Western Africa
+SC,SYC,690,Seychelles,Victoria,Africa,Indian Ocean
+SL,SLE,694,Sierra Leone,Freetown,Africa,Western Africa
+SG,SGP,702,Singapore,Singapore,Asia,South East Asia
+SK,SVK,703,Slovak Republic,Bratislava,Europe,Central Europe
+SI,SVN,705,Slovenia,Ljubljana,Europe,South East Europe
+SB,SLB,90,Solomon Islands,Honiara,Oceania,Pacific
+SO,SOM,706,Somalia,Mogadishu,Africa,Eastern Africa
+ZA,ZAF,710,South Africa,Pretoria ¹,Africa,Southern Africa
+ES,ESP,724,Spain,Madrid,Europe,South West Europe
+LK,LKA,144,Sri Lanka,Colombo,Asia,South Asia
+KN,KNA,659,St. Kitts and Nevis,Basseterre,Americas,West Indies
+LC,LCA,662,St. Lucia,Castries,Americas,West Indies
+VC,VCT,670,St. Vincent and the Grenadines,Kingstown,Americas,West Indies
+SD,SDN,729,Sudan,Khartoum,Africa,Northern Africa
+SR,SUR,740,Suriname,Paramaribo,Americas,South America
+SZ,SWZ,748,Swaziland,Mbabane ²,Africa,Southern Africa
+SE,SWE,752,Sweden,Stockholm,Europe,Northern Europe
+CH,CHE,756,Switzerland,Bern,Europe,Central Europe
+SY,SYR,760,Syrian Arab Republic,Damascus,Asia,South West Asia
+TJ,TJK,762,Tajikistan,Dushanbe,Asia,Central Asia
+TZ,TZA,834,Tanzania,Dar es Salaam,Africa,Eastern Africa
+TH,THA,764,Thailand,Bangkok,Asia,South East Asia
+TG,TGO,768,Togo,Lome,Africa,Western Africa
+TO,TON,776,Tonga,Nuku'alofa,Oceania,Pacific
+TT,TTO,780,Trinidad and Tobago,Port-of-Spain,Americas,West Indies
+TN,TUN,788,Tunisia,Tunis,Africa,Northern Africa
+TR,TUR,792,Turkey,Ankara,Asia,South West Asia
+TM,TKM,795,Turkmenistan,Ashgabat,Asia,Central Asia
+TC,TCA,796,Turks and Caicos Islands,Grand Turk,Americas,West Indies
+TV,TUV,798,Tuvalu,Funafuti,Oceania,Pacific
+UG,UGA,800,Uganda,Kampala,Africa,Eastern Africa
+UA,UKR,804,Ukraine,Kiev,Europe,Eastern Europe
+AE,ARE,784,United Arab Emirates,Abu Dhabi,Asia,South West Asia
+GB,GBR,826,United Kingdom,London,Europe,Western Europe
+US,USA,840,United States,"Washington, DC",Americas,North America
+UY,URY,858,Uruguay,Montevideo,Americas,South America
+UZ,UZB,860,Uzbekistan,Tashkent (Toshkent),Asia,Central Asia
+VU,VUT,548,Vanuatu,Port-Vila,Oceania,Pacific
+VE,VEN,862,"Venezuela, RB",Caracas,Americas,South America
+VN,VNM,704,Vietnam,Hanoi,Asia,South East Asia
+VI,VIR,850,Virgin Islands (U.S.),Charlotte Amalie,Americas,West Indies
+YE,YEM,887,"Yemen, Rep.",Sanaa,Asia,South West Asia
+ZW,ZWE,716,Zimbabwe,Harare,Africa,Southern Africa
+NA,NAM,516,Namibia,Windhoek,Africa,Southern Africa

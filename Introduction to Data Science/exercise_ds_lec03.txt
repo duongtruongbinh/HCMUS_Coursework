@@ -1,0 +1,27 @@
+1. Suppose that Starbucks wanted to conduct a study to determine whether men and women differ in the amount of money they spend when they visit one of their stores.
+they hired a researcher to collect these data from the first 100 customers to 1 of their stores in New York 1 day.
+40 men, 60 women
+1. What kind of sampling method did the researcher use?
+convenience sampling
+2. What is/are the sample(s) in this study?
+lượng tiền sử dụng của 100 khách hàng khi ghé cửa hàng
+3. what is/are the population(s) in this study?
+Toàn bộ khách hàng của starbucks ở new york
+4. Do you think the results of this study will generalize to the population(s)?
+Why or why not?
+Không thể generalize cho population vì không chắc sẽ lấy được hết tất cả đặc trưng của population (độ tuổi, nghề nghiệp, tầng lớp,chi nhánh, thời gian ...)
+5. what are the independent and dependent variables in this study?
+independent: gender
+dependent: money
+6. what type of measurement does each of these variables use? (nominal, ordinal, interval, ratio)
+nominal: sex
+continous: money
+7. what kind of study is this (experimental, quasi-experimental, correlational)?
+Correlational research designs
+8. What are the statistic(s) and parameter(s) of interest in this study?
+statistics: 100 customer, 40 nam , 40 nữ
+parameter: Tổng lượng khách hàng, tổng nam, tổng nữ
+9. How could you re-design this study to get results from the sample data that would be generalizable to the population(s)?
+Lấy sample theo chi nhánh, thời gian trong ngày, thời vụ (ngày trong tuần, tháng , mùa ...), giới tính
+
+
