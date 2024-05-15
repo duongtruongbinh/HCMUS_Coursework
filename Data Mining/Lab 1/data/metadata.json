@@ -1,0 +1,26 @@
+{
+    "title":"SpaceX Launches 2006-2022",
+    "description": "The SpaceX Launches dataset contains information about launches and landings of SpaceX rockets from 2006 to 2022. The dataset contains information about launch dates, launchers, payloads, rockets, launchers, and landing pad wings. The data set also contains information about the landing results of each space mission represented by boolean values. This data set is third-party statistics, so it may deviate from reality.",
+    "source": "https://api.spacexdata.com/v5/launches/latest",
+    "certificate_link": "https://github.com/r-spacex/SpaceX-API/tree/master?tab=Apache-2.0-1-ov-file#readme",
+    "certificate": "Apache-2.0",
+    "attributions": {
+        "uct_time":"Launch date in UTC format.",
+        "launch_name":"Launch name. Typically the name of the space mission.",
+        "payloads":"The list information about the payloads on the launch.",
+        "rocket_name":"The name of the rocket.",
+        "rocket_boosters":"The number of boosters on the rocket.",
+        "rocket_height":"The height information about the rocket (m).",
+        "rocket_diameter":"The diameter information about the rocket (m).",
+        "rocket_mass":"The mass information about the rocket (kg).",
+        "launchpad_name":"The name of the launchpad.",
+        "launchpad_region":"The region of the launchpad.",
+        "launchpad_geo":"The geo location of the launchpad.",
+        "landpad":"The landpad information.",
+        "landpad_name":"The name of the landing pad.",
+        "landpad_type":"The type of the landing pad.",
+        "landpad_region":"The region of the landing pad.",
+        "landpad_geo":"The geo location of the landing pad.",
+        "outcome":"Boolean indicating launch success or failure."
+    }
+}
